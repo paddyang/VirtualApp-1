@@ -16,7 +16,6 @@ app/.externalNativeBuild/
 ImagePicker/build/
 
 # Built application files
-*.apk
 *.ap_
 *.aab
 
@@ -86,7 +85,6 @@ lint/tmp/
 # lint/reports/
 
 
-release/
 lib-back/
 
 spinner_lib/build/
